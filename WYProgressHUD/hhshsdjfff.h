@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+API_AVAILABLE(ios(2.0))
 @interface hhshsdjfff : NSObject
-
++(void)show;
 @end

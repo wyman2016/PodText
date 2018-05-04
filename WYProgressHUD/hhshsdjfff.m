@@ -9,5 +9,8 @@
 #import "hhshsdjfff.h"
 
 @implementation hhshsdjfff
++(void)show{
+    NSLog(@"内猴");
+}
 
 @end
